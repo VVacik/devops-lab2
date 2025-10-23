@@ -1,1 +1,1 @@
-# devops-lab2
+# Laboratorium 2 – Git
