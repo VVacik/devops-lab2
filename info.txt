@@ -1,2 +1,2 @@
 Autor: Grzegorz Olesiak
-Kurs: DevOps
+Kurs: Technologie DevOps
